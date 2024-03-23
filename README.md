@@ -1,4 +1,4 @@
-# Swiggy-Case-Analysis
+
 # Swiggy Data Analysis
 
 This repository contains analysis of Swiggy's operational performance and customer behavior based on provided data. From identifying top restaurants to understanding revenue growth trends, this analysis offers valuable insights for stakeholders. Dive into the data to uncover key metrics driving Swiggy's success and explore recommendations for future strategies.
